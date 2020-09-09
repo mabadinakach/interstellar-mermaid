@@ -1,5 +1,18 @@
 # Interstellar Mermaid
 
+<<<<<<< HEAD
 
 Marcos Scene (Scene 3):
+=======
+### Scene 1
+
+The **Interstellar Mermaid** emerges from her Interstellar Spaceship. She wags tail on a foreign sea with no life in sight. What is she to do now? The **Interstellar Mermaid** begins to swim, hoping her destination will become known along the way.
+
+### Scene 2
+
+The mermaid got hangry so she got a 4x4 burger from in-N-out
+
+### Scene 3
+
+>>>>>>> 3949c94fd2143a13c04000b1a8bf9cf24547af01
 The little mermaid once met a entinty while she was swiming around the universe, this entity had long purple tooth, 3 eyes, 2 red hands and 4 legs, she thought this entity was kind of weird because she was not used to seeing this type of stuff, but what can you expect when you are swiming around the universe...
